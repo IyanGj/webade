@@ -1,0 +1,23 @@
+body {
+    background : rgb(168, 168, 253);
+    background-size: cover; /* Menyesuaikan gambar dengan ukuran elemen */
+    background-position: center; /* Posisi gambar di tengah */
+    background-repeat: no-repeat; /* Menghindari pengulangan gambar */
+}
+        
+        nav{
+           background-color: black;
+            color:beige;
+            padding: 10px;
+        }
+
+        nav a{
+            color:beige;
+            text-decoration: none;
+        }
+
+        footer{
+            color: beige;
+            background-color: black;
+            padding: 10px;
+        }
